@@ -20,5 +20,5 @@ title={NCT:noise-control multi-object tracking},<br>
 author={Zeng, Kai and You, Yujie and Shen, Tao and Wang, Qingwang and Tao, Zhimin and Wang, Zhifeng and Liu, Quanjun},<br>
 journal = {Complex \& Intelligent Systems},<br>
 year = {2023},<br>
-doi={https://doi.org/10.1007/s40747-022-00946-9}<br>
+doi={https://doi.org/10.1007/s40747-022-00946-9 }<br>
 }
